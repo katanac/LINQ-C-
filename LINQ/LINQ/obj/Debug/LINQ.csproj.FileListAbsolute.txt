@@ -1,0 +1,14 @@
+C:\Users\Karen.Pena\source\repos\LINQ\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\Karen.Pena\source\repos\LINQ\LINQ\bin\Debug\LINQ.exe
+C:\Users\Karen.Pena\source\repos\LINQ\LINQ\bin\Debug\LINQ.pdb
+C:\Users\Karen.Pena\source\repos\LINQ\LINQ\obj\Debug\LINQ.csprojAssemblyReference.cache
+C:\Users\Karen.Pena\source\repos\LINQ\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+C:\Users\Karen.Pena\source\repos\LINQ\LINQ\obj\Debug\LINQ.exe
+C:\Users\Karen.Pena\source\repos\LINQ\LINQ\obj\Debug\LINQ.pdb
+C:\Users\Karen.Pena\Desktop\fundamentos c#\LINQ\LINQ\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\Karen.Pena\Desktop\fundamentos c#\LINQ\LINQ\LINQ\bin\Debug\LINQ.exe
+C:\Users\Karen.Pena\Desktop\fundamentos c#\LINQ\LINQ\LINQ\bin\Debug\LINQ.pdb
+C:\Users\Karen.Pena\Desktop\fundamentos c#\LINQ\LINQ\LINQ\obj\Debug\LINQ.csprojAssemblyReference.cache
+C:\Users\Karen.Pena\Desktop\fundamentos c#\LINQ\LINQ\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+C:\Users\Karen.Pena\Desktop\fundamentos c#\LINQ\LINQ\LINQ\obj\Debug\LINQ.exe
+C:\Users\Karen.Pena\Desktop\fundamentos c#\LINQ\LINQ\LINQ\obj\Debug\LINQ.pdb

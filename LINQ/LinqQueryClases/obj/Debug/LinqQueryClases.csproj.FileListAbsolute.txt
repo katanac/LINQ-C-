@@ -1,0 +1,7 @@
+C:\Users\Karen.Pena\Desktop\fundamentos c#\LINQ\LINQ\LinqQueryClases\bin\Debug\LinqQueryClases.exe.config
+C:\Users\Karen.Pena\Desktop\fundamentos c#\LINQ\LINQ\LinqQueryClases\bin\Debug\LinqQueryClases.exe
+C:\Users\Karen.Pena\Desktop\fundamentos c#\LINQ\LINQ\LinqQueryClases\bin\Debug\LinqQueryClases.pdb
+C:\Users\Karen.Pena\Desktop\fundamentos c#\LINQ\LINQ\LinqQueryClases\obj\Debug\LinqQueryClases.csprojAssemblyReference.cache
+C:\Users\Karen.Pena\Desktop\fundamentos c#\LINQ\LINQ\LinqQueryClases\obj\Debug\LinqQueryClases.csproj.CoreCompileInputs.cache
+C:\Users\Karen.Pena\Desktop\fundamentos c#\LINQ\LINQ\LinqQueryClases\obj\Debug\LinqQueryClases.exe
+C:\Users\Karen.Pena\Desktop\fundamentos c#\LINQ\LINQ\LinqQueryClases\obj\Debug\LinqQueryClases.pdb

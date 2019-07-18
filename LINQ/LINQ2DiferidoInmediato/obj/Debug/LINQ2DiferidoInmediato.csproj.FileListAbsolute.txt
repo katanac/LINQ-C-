@@ -1,0 +1,13 @@
+C:\Users\Karen.Pena\source\repos\LINQ\LINQ2DiferidoInmediato\bin\Debug\LINQ2DiferidoInmediato.exe.config
+C:\Users\Karen.Pena\source\repos\LINQ\LINQ2DiferidoInmediato\bin\Debug\LINQ2DiferidoInmediato.exe
+C:\Users\Karen.Pena\source\repos\LINQ\LINQ2DiferidoInmediato\bin\Debug\LINQ2DiferidoInmediato.pdb
+C:\Users\Karen.Pena\source\repos\LINQ\LINQ2DiferidoInmediato\obj\Debug\LINQ2DiferidoInmediato.csproj.CoreCompileInputs.cache
+C:\Users\Karen.Pena\source\repos\LINQ\LINQ2DiferidoInmediato\obj\Debug\LINQ2DiferidoInmediato.exe
+C:\Users\Karen.Pena\source\repos\LINQ\LINQ2DiferidoInmediato\obj\Debug\LINQ2DiferidoInmediato.pdb
+C:\Users\Karen.Pena\Desktop\fundamentos c#\LINQ\LINQ\LINQ2DiferidoInmediato\bin\Debug\LINQ2DiferidoInmediato.exe.config
+C:\Users\Karen.Pena\Desktop\fundamentos c#\LINQ\LINQ\LINQ2DiferidoInmediato\bin\Debug\LINQ2DiferidoInmediato.exe
+C:\Users\Karen.Pena\Desktop\fundamentos c#\LINQ\LINQ\LINQ2DiferidoInmediato\bin\Debug\LINQ2DiferidoInmediato.pdb
+C:\Users\Karen.Pena\Desktop\fundamentos c#\LINQ\LINQ\LINQ2DiferidoInmediato\obj\Debug\LINQ2DiferidoInmediato.csprojAssemblyReference.cache
+C:\Users\Karen.Pena\Desktop\fundamentos c#\LINQ\LINQ\LINQ2DiferidoInmediato\obj\Debug\LINQ2DiferidoInmediato.csproj.CoreCompileInputs.cache
+C:\Users\Karen.Pena\Desktop\fundamentos c#\LINQ\LINQ\LINQ2DiferidoInmediato\obj\Debug\LINQ2DiferidoInmediato.exe
+C:\Users\Karen.Pena\Desktop\fundamentos c#\LINQ\LINQ\LINQ2DiferidoInmediato\obj\Debug\LINQ2DiferidoInmediato.pdb

@@ -1,0 +1,7 @@
+C:\Users\Karen.Pena\Desktop\fundamentos c#\LINQ\LINQ\TipsArrayLINQ\bin\Debug\TipsArrayLINQ.exe.config
+C:\Users\Karen.Pena\Desktop\fundamentos c#\LINQ\LINQ\TipsArrayLINQ\bin\Debug\TipsArrayLINQ.exe
+C:\Users\Karen.Pena\Desktop\fundamentos c#\LINQ\LINQ\TipsArrayLINQ\bin\Debug\TipsArrayLINQ.pdb
+C:\Users\Karen.Pena\Desktop\fundamentos c#\LINQ\LINQ\TipsArrayLINQ\obj\Debug\TipsArrayLINQ.csprojAssemblyReference.cache
+C:\Users\Karen.Pena\Desktop\fundamentos c#\LINQ\LINQ\TipsArrayLINQ\obj\Debug\TipsArrayLINQ.csproj.CoreCompileInputs.cache
+C:\Users\Karen.Pena\Desktop\fundamentos c#\LINQ\LINQ\TipsArrayLINQ\obj\Debug\TipsArrayLINQ.exe
+C:\Users\Karen.Pena\Desktop\fundamentos c#\LINQ\LINQ\TipsArrayLINQ\obj\Debug\TipsArrayLINQ.pdb

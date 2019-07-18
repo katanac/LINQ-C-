@@ -1,0 +1,7 @@
+C:\Users\Karen.Pena\Desktop\fundamentos c#\LINQ\LINQ\Reflection\bin\Debug\Reflection.exe.config
+C:\Users\Karen.Pena\Desktop\fundamentos c#\LINQ\LINQ\Reflection\bin\Debug\Reflection.exe
+C:\Users\Karen.Pena\Desktop\fundamentos c#\LINQ\LINQ\Reflection\bin\Debug\Reflection.pdb
+C:\Users\Karen.Pena\Desktop\fundamentos c#\LINQ\LINQ\Reflection\obj\Debug\Reflection.csprojAssemblyReference.cache
+C:\Users\Karen.Pena\Desktop\fundamentos c#\LINQ\LINQ\Reflection\obj\Debug\Reflection.csproj.CoreCompileInputs.cache
+C:\Users\Karen.Pena\Desktop\fundamentos c#\LINQ\LINQ\Reflection\obj\Debug\Reflection.exe
+C:\Users\Karen.Pena\Desktop\fundamentos c#\LINQ\LINQ\Reflection\obj\Debug\Reflection.pdb

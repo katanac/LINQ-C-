@@ -1,0 +1,7 @@
+C:\Users\Karen.Pena\Desktop\fundamentos c#\LINQ\LINQ\QueryEnMetodos\bin\Debug\QueryEnMetodos.exe.config
+C:\Users\Karen.Pena\Desktop\fundamentos c#\LINQ\LINQ\QueryEnMetodos\bin\Debug\QueryEnMetodos.exe
+C:\Users\Karen.Pena\Desktop\fundamentos c#\LINQ\LINQ\QueryEnMetodos\bin\Debug\QueryEnMetodos.pdb
+C:\Users\Karen.Pena\Desktop\fundamentos c#\LINQ\LINQ\QueryEnMetodos\obj\Debug\QueryEnMetodos.csprojAssemblyReference.cache
+C:\Users\Karen.Pena\Desktop\fundamentos c#\LINQ\LINQ\QueryEnMetodos\obj\Debug\QueryEnMetodos.csproj.CoreCompileInputs.cache
+C:\Users\Karen.Pena\Desktop\fundamentos c#\LINQ\LINQ\QueryEnMetodos\obj\Debug\QueryEnMetodos.exe
+C:\Users\Karen.Pena\Desktop\fundamentos c#\LINQ\LINQ\QueryEnMetodos\obj\Debug\QueryEnMetodos.pdb
